@@ -1,0 +1,6 @@
+*.ncb
+*.suo
+*.user
+answers.txt
+exercises.txt
+Builds/
