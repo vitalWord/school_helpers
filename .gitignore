@@ -1,6 +1,6 @@
 *.ncb
 *.suo
 *.user
+Builds/
 answers.txt
 exercises.txt
-Builds/
