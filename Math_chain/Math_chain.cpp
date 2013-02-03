@@ -19,8 +19,8 @@ void InitRand()
 const int kValMin = 0;
 const int kValMax = 10;
 
-const int kOp = 9;
-const int kChains = 6;
+const int kOp = 10;
+const int kChains = 35;
 
 void ShowParameters()
 {
